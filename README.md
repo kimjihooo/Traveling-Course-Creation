@@ -36,6 +36,7 @@
   https://public.tableau.com/app/profile/jihoo.kim3382/viz/_16758685634750/1
 
 - 프로토타입 제작
+  
   <img width="578" alt="image" src="https://github.com/kimjihooo/Traveling-Course-Creation/assets/97178674/9e556638-e017-42c8-b364-aeea914c4aed">
 
   <img width="580" alt="image" src="https://github.com/kimjihooo/Traveling-Course-Creation/assets/97178674/6d5d2530-3e1b-4160-a2c7-3cd3a258af28">
