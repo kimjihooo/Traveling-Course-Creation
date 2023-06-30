@@ -22,7 +22,10 @@
 
 ### 4. 서비스 기획
 - Tableau를 활용해 코스 생성 서비스 구체화
+  https://public.tableau.com/app/profile/jihoo.kim3382/viz/_16758685634750/1
 
 - 프로토타입 제작
+
+참고자료 : 머신러닝 완벽가이드. 권철민. 위키북스 
 
 
