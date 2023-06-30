@@ -25,6 +25,9 @@
 
   관광지에 대한 체계적인 분류를 위해서 군집화를 하였습니다. 군집화 방법으로 K-means를 사용했고 이때 K=10으로 설정하였습니다. 다음은 총 10개의 군집으로 나누어진 결과
 
+  <img width="565" alt="image" src="https://github.com/kimjihooo/Traveling-Course-Creation/assets/97178674/66497db2-12c2-4175-9516-227f1c9aa6ce">
+
+
 ### 3. 서비스 기획
 - Tableau를 활용해 코스 생성 서비스 구체화
   
@@ -33,6 +36,11 @@
   https://public.tableau.com/app/profile/jihoo.kim3382/viz/_16758685634750/1
 
 - 프로토타입 제작
+  <img width="578" alt="image" src="https://github.com/kimjihooo/Traveling-Course-Creation/assets/97178674/9e556638-e017-42c8-b364-aeea914c4aed">
+
+  <img width="580" alt="image" src="https://github.com/kimjihooo/Traveling-Course-Creation/assets/97178674/6d5d2530-3e1b-4160-a2c7-3cd3a258af28">
+  
+  <img width="579" alt="image" src="https://github.com/kimjihooo/Traveling-Course-Creation/assets/97178674/f11f6011-6ee9-472b-94eb-af3cd656fb43">
 
 참고자료 : 머신러닝 완벽가이드. 권철민. 위키북스 
 
